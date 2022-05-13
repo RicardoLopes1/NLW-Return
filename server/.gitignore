@@ -1,0 +1,5 @@
+# Node modules
+node_modules
+
+# keep enviroment variables out of version control
+.env

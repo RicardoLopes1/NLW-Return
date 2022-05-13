@@ -17,6 +17,8 @@
 - Express
 - Prisma
   - @prisma/client
+- Nodemailer: biblioteca para envio de e-mails
+- SMTP Server Mailtrap: serviço para testar envio de e-mail
 
 ### Banco de dados
 

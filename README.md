@@ -19,6 +19,10 @@
   - @prisma/client
 - Nodemailer: biblioteca para envio de e-mails
 - SMTP Server Mailtrap: serviço para testar envio de e-mail
+- JEST: framework de testes unitários automatizados
+  - npm i ts-node -D
+- SWC: compiler para JavaScript ou TypeScript (20x mais rápido que o Babel, podendo chegar até ser 70x mais rápido)
+- CORS
 
 ### Banco de dados
 

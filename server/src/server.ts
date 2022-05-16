@@ -9,6 +9,6 @@ app.use(express.json());
 app.use(routes)
 
 
-app.listen(3333, () => {
-  console.log("Server is listening on address http://localhost:3333");
+app.listen(process.env.PORT || 3333, () => {
+  console.log(`Server is listening on address http://localhost:3333 or on cloud address with port ${process.env.PORT || "*"}`);
 });

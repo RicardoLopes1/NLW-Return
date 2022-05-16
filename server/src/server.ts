@@ -10,5 +10,5 @@ app.use(routes)
 
 
 app.listen(3333, () => {
-  console.log("Server is listening on port http://localhost:3333");
+  console.log("Server is listening on address http://localhost:3333");
 });

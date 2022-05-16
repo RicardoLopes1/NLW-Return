@@ -6,3 +6,6 @@ node_modules
 
 # tests folder
 coverage
+
+# dist
+dist
